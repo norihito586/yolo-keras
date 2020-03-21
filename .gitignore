@@ -106,3 +106,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# add
+carImage/
+carimage_vid/
